@@ -1,1 +1,11 @@
 Forward and reverse wavelet transform of a signal in MATLAB
+- forwardWavelet.m
+- reverseWavelet.m
+
+Comparison of reconstruction error of blurred images for a given sparsity
+- compare_reconst_err_blurred_images.m
+- hard_wavelet_thresh_spars.m
+
+Comparison of sparsity levels of blurred images
+- compare_sparsity_blurred_images.m
+- hard_wavelet_thresh_err.m
